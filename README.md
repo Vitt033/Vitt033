@@ -52,11 +52,6 @@ Atualmente estou me dedicando aos estudos em **desenvolvimento de software** e *
 
 ---
 
-## 🐍 Gráfico da cobrinha
-![Snake animation](https://github.com/Vitt033/Vitt033/blob/output/snake.svg)
-
----
-
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-natanael-b08083289)  
 [![Gmail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.natanael058@gmail.com)  
