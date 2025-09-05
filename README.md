@@ -28,7 +28,7 @@ Atualmente estou me dedicando aos estudos em **desenvolvimento de software** e *
 ---
 
 ## 💼 Experiência Profissional
-**Neo BPO (2019–2020) – Suporte Técnico**  
+**Neo BPO – Suporte Técnico**  
 - Atendimento ao usuário via telefone e sistema interno  
 - Suporte técnico a problemas relacionados a hardware e software  
 - Abertura e acompanhamento de chamados  
