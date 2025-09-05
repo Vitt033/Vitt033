@@ -58,6 +58,6 @@ Atualmente estou me dedicando aos estudos em **desenvolvimento de software** e *
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vitt033)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vitt033_v2)
 
 ⭐ Sempre em busca de aprender, evoluir e contribuir com projetos que façam a diferença!
