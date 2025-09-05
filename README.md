@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre)  
 💼 Atualmente trabalho como **Estoquista**, mas em transição para a área de **Tecnologia**  
-💻 Primeira experiência em TI como **Suporte Técnico na Neo BPO (2019–2020)**  
+💻 Primeira experiência em TI como **Suporte Técnico na Neo BPO 
 📍 São Paulo - SP | 📅 26 anos  
 
 ---
