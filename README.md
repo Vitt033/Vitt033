@@ -55,7 +55,6 @@ Atualmente estou me dedicando aos estudos em **desenvolvimento de software** e *
 ## 🐍 Gráfico da cobrinha
 ![Snake animation](https://github.com/Vitt033/Vitt033/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/Vitt033/Vitt033/blob/output/snake.svg)
 
 ---
 
