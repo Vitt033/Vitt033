@@ -59,7 +59,7 @@ Atualmente estou me dedicando aos estudos em **desenvolvimento de software** e *
 
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-natanael-b08083289)  
-[![Gmail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.natanael058@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.natanael058@gmail.com)  
 
 ---
 
